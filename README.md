@@ -1,7 +1,7 @@
 # Land Parcels
 
 # To Run
-Build Solution using Visual Studio (Community Edition will work)
+Build and Run thes solution file using Visual Studio (VS2019 Community Edition will work)
 
 # Commands
 ***help***
